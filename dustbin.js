@@ -45,7 +45,6 @@ class dustbin
 			
 			angleMode(RADIANS)
 			fill(255)
-			rotate(-1*this.angle)
 			
 			pop()
 
